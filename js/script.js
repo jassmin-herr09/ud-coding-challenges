@@ -1,6 +1,6 @@
 
 
-/*function reverse(str){
+function reverse(str){
     if(!str || typeof str != 'string' || str.length < 2 ) return str;
     
     const backwards = [];
@@ -13,7 +13,7 @@
   }
   
 
-  console.log(reverse('Hi my name is Jassmin'));*/
+  console.log(reverse('Hi my name is Jassmin'));
 
   function mixedNumbers(arr) {
     // Only change code below this line
